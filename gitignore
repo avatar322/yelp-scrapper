@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.log
+*.txt
+.yelp-output/
+*-yelp-output/
